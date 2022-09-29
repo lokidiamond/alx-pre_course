@@ -1,2 +1,2 @@
-my second commit
-Lokidiamond 1
+my second commit loki
+
